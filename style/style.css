@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.cards {
+    width: 500px;
+    height: 480px;
+    background-color: #5E7685;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 15px auto;
+}
+.cards img {
+    width: 100%;
+    height: 50%;
+    border-radius: 20px;
+}
+.text {
+    text-align: center;
+    padding: 10px 15px;
+}
+
+
